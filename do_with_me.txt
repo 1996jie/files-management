@@ -1,0 +1,11 @@
+git status    查看当前状态
+
+git pull origin master     将服务器端文件同步到本地
+
+git add test.txt     添加文件到暂存区
+git commit -m "do test"     将暂存区的文件提交到本地仓库
+git push -u origin master     将当前分支代码提交到远程master分支
+
+
+git同步本地与远程代码命令
+https://blog.csdn.net/Gunahao/article/details/80315573
